@@ -115,4 +115,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| W3Schools | W3Schools is optimized for learning and training. Examples might be simplified to improve reading and learning. | https://www.w3schools.com/ |
